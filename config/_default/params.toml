@@ -36,11 +36,11 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Propulse par <a href=\"https://gohugo.io/\">Hugo</a>, et <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Propulsé par <a href=\"https://gohugo.io/\">Hugo</a>, et <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Alert
 alert = true
-alertText = "Vous aimez ce guide? <a class=\"alert-link\" href=\"https://github.com/Ahzed11/guide-collaboratif-oz\">Ajoutez une etoile sur GitHub</a>. Merci!</a>"
+alertText = "Vous aimez ce guide ? <a class=\"alert-link\" href=\"https://github.com/Ahzed11/guide-collaboratif-oz\">Ajoutez une étoile sur GitHub</a>. Merci !</a>"
 
 # Edit Page
 docsRepo = "https://github.com/h-enk/doks"
