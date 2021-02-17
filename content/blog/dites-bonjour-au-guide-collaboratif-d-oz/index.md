@@ -1,5 +1,5 @@
 ---
-title: "Dites bonjour a la documentation d'introduction a Oz."
+title: "Dites bonjour au guide collaboratif d'Oz."
 description: "Pourquoi cette initiative a lieu."
 lead: ""
 date: 2020-02-17T09:13:42+01:00
