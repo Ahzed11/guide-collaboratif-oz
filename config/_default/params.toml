@@ -12,7 +12,7 @@ twitterSite = "henkverlinde"
 twitterCreator = "henkverlinde"
 facebookAuthor = "verlinde.henk"
 facebookPublisher = "verlinde.henk"
-ogLocale = "fr_be"
+ogLocale = "fr-BE"
 
 ## JSON-LD
 schemaType = "Organization"
