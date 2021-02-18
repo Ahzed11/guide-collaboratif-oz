@@ -67,7 +67,7 @@ rel  = "sitemap"
   contributor = "contributors"
 
 [permalinks]
-  blog = "/blog/:title/"
+  lessons = "/lessons/:title/"
 
 [module]
   [[module.mounts]]

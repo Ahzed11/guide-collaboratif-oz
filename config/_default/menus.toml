@@ -1,23 +1,17 @@
 [[docs]]
-  name = "Prologue"
+  name = "installation"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
-
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  identifier = "Installation"
+  url = "/docs/installation/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/introduction/"
+  url = "/docs/installation/introduction/"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Leçons"
+  url = "/lessons/"
   weight = 20
 
 [[social]]
