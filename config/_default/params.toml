@@ -8,18 +8,11 @@ description = "Ressource pedagogique collaborative pour le langage de programmat
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
-twitterSite = "henkverlinde"
-twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
 ogLocale = "fr-BE"
 
 ## JSON-LD
 schemaType = "Organization"
 schemaLogo = "logo-doks.png"
-schemaTwitter = "https://twitter.com/henkverlinde"
-schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/h-enk"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
