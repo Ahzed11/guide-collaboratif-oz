@@ -1,25 +1,18 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Guide Oz"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Guide collaboratif"
+description = "Ressource pedagogique collaborative pour le langage de programmation multiparadigme Oz."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
-twitterSite = "henkverlinde"
-twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
-ogLocale = "en_US"
+images = []
+ogLocale = "fr-BE"
 
 ## JSON-LD
 schemaType = "Organization"
 schemaLogo = "logo-doks.png"
-schemaTwitter = "https://twitter.com/henkverlinde"
-schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/h-enk"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -36,11 +29,11 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Propulsé par <a href=\"https://gohugo.io/\">Hugo</a>, et <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Alert
-alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alert = true
+alertText = "Vous aimez ce guide ? <a class=\"alert-link\" href=\"https://github.com/Ahzed11/guide-collaboratif-oz\">Ajoutez une étoile sur GitHub</a>. Merci !</a>"
 
 # Edit Page
 docsRepo = "https://github.com/h-enk/doks"
