@@ -7,7 +7,7 @@ titleAddition = "Guide collaboratif"
 description = "Ressource pedagogique collaborative pour le langage de programmation multiparadigme Oz."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
+images = []
 ogLocale = "fr-BE"
 
 ## JSON-LD
